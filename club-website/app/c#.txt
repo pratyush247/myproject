@@ -1,0 +1,3 @@
+list<data type> variable=new list<data type>();
+foreach(data type variable2 in variable){};
+try{error};catch(excetion e){messagebox.show (e)};finally{messagebox.show("this will execute either there is error or not")}

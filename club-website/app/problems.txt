@@ -1,0 +1,10 @@
+error handling file not working
+not able to use javascript modals 
+body block more precise use
+not going back to home when data enered in login
+sql injection
+sql append or database append in flask more details
+mongodb for documents ,orient for graph and redis for key values like for 1,2,3 these are nosql relational databse
+mysql database should be used as webapp becomes complex
+news feed learning
+strftime for date work
